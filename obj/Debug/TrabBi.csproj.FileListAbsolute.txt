@@ -1,0 +1,16 @@
+E:\_Paulo Padilha_\_Facul_\2° Período\Estatística\TrabalhoBimestral2\TrabBi\bin\Debug\TrabBi.exe.config
+E:\_Paulo Padilha_\_Facul_\2° Período\Estatística\TrabalhoBimestral2\TrabBi\bin\Debug\TrabBi.exe
+E:\_Paulo Padilha_\_Facul_\2° Período\Estatística\TrabalhoBimestral2\TrabBi\bin\Debug\TrabBi.pdb
+E:\_Paulo Padilha_\_Facul_\2° Período\Estatística\TrabalhoBimestral2\TrabBi\obj\Debug\TrabBi.csproj.AssemblyReference.cache
+E:\_Paulo Padilha_\_Facul_\2° Período\Estatística\TrabalhoBimestral2\TrabBi\obj\Debug\TrabBi.csproj.SuggestedBindingRedirects.cache
+E:\_Paulo Padilha_\_Facul_\2° Período\Estatística\TrabalhoBimestral2\TrabBi\obj\Debug\TrabBi.csproj.CoreCompileInputs.cache
+E:\_Paulo Padilha_\_Facul_\2° Período\Estatística\TrabalhoBimestral2\TrabBi\obj\Debug\TrabBi.exe
+E:\_Paulo Padilha_\_Facul_\2° Período\Estatística\TrabalhoBimestral2\TrabBi\obj\Debug\TrabBi.pdb
+E:\Estatística\TrabalhoBimestral2\TrabBi\bin\Debug\TrabBi.exe.config
+E:\Estatística\TrabalhoBimestral2\TrabBi\bin\Debug\TrabBi.exe
+E:\Estatística\TrabalhoBimestral2\TrabBi\bin\Debug\TrabBi.pdb
+E:\Estatística\TrabalhoBimestral2\TrabBi\obj\Debug\TrabBi.csproj.AssemblyReference.cache
+E:\Estatística\TrabalhoBimestral2\TrabBi\obj\Debug\TrabBi.csproj.SuggestedBindingRedirects.cache
+E:\Estatística\TrabalhoBimestral2\TrabBi\obj\Debug\TrabBi.csproj.CoreCompileInputs.cache
+E:\Estatística\TrabalhoBimestral2\TrabBi\obj\Debug\TrabBi.exe
+E:\Estatística\TrabalhoBimestral2\TrabBi\obj\Debug\TrabBi.pdb
